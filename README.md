@@ -12,6 +12,8 @@ As an initial prototype of the project to test feasibility, two RF69 packet radi
 One is a dedicated server while the other is a client, both hooked up to seperate Arduino Mega's.
 Test code is provided by the Radiohead library. 
 
+The obvious worry is that Arduino hardware isn't weatherproofed or vibration isolated. An easy fix for this is to enclose it in an aluminum casing, utilinzg rubber standoffs from McMaster to isolate the board from vibration. I haven't heard of anybody having a board die from vibration, but you wouldn't want it to happen on the track. 
+
 Goal:
 A long term goal of the project is to use off-the-shelf hardware to communicate data with the 
 host laptop in real time. So while the car is running around the track, the team can monitor 
