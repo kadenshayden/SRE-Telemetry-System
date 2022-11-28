@@ -13,7 +13,7 @@ One is a dedicated server while the other is a client, both hooked up to seperat
 Test code is provided by the Radiohead library. 
 
 Goal:
-A long term goal of the project is to use off-the-shelve hardware to communicate data with the 
+A long term goal of the project is to use off-the-shelf hardware to communicate data with the 
 host laptop in real time. So while the car is running around the track, the team can monitor 
 data and make sure that nothing abnormal is happening. 
 
