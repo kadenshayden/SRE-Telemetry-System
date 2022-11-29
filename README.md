@@ -16,6 +16,16 @@ Test code is provided by the Radiohead library.
 
 The obvious worry is that Arduino hardware isn't weatherproofed or vibration isolated. An easy fix for this is to enclose it in an aluminum casing, utilinzg rubber standoffs from McMaster to isolate the board from vibration. I haven't heard of anybody having a board die from vibration, but you wouldn't want it to happen on the track. 
 
+To Do:
+Change to long range radios so that connection doesnt cut out on long courses.
+Create a KXDashboards config
+Check rules on what frequencies are allowed to be used in competition. 
+
+Learning outcomes:
+Learn how to create a Build Of Materials (BOM) in Altium
+Create breakout board for Arduino, utilizing PCB printing services
+Transmit CAN data in an organized and understandable output
+
 Goal:
 A long term goal of the project is to use off-the-shelf hardware to communicate data with the 
 host laptop in real time. So while the car is running around the track, the team can monitor 
