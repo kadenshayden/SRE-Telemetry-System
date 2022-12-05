@@ -18,8 +18,7 @@ The obvious worry is that Arduino hardware isn't weatherproofed or vibration iso
 
 To Do:
 Change to long range radios so that connection doesnt cut out on long courses.
-Create a KXDashboards config
-Check rules on what frequencies are allowed to be used in competition. 
+Move over to TSmaster GUI instead of KXDashboards. This makes sure I'm on the same page as the rest of the subteams.
 
 Learning outcomes:
 Learn how to create a Build Of Materials (BOM) in Altium
