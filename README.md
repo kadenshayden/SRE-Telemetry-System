@@ -16,10 +16,6 @@ Test code is provided by the Radiohead library.
 
 The obvious worry is that Arduino hardware isn't weatherproofed or vibration isolated. An easy fix for this is to enclose it in an aluminum casing, utilinzg rubber standoffs from McMaster to isolate the board from vibration. I haven't heard of anybody having a board die from vibration, but you wouldn't want it to happen on the track. 
 
-To Do:
-Change to long range radios so that connection doesnt cut out on long courses.
-Move over to TSmaster GUI instead of KXDashboards. This makes sure I'm on the same page as the rest of the subteams.
-
 Learning outcomes:
 Learn how to create a Build Of Materials (BOM) in Altium
 Create breakout board for Arduino, utilizing PCB printing services
