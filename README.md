@@ -26,7 +26,7 @@ A long term goal of the project is to use off-the-shelf hardware to communicate 
 host laptop in real time. So while the car is running around the track, the team can monitor 
 data and make sure that nothing abnormal is happening. 
 
-Using KX Dashboards, Arduino UNO's, and long range packet radios we will be able to graph and organize data in real time. 
+Using KX Dashboards, two ESP8826's, and long range packet radios we will be able to graph and organize data in real time. 
 
 Team:
 Kaden Golda
